@@ -640,6 +640,10 @@ video {
   margin: 1.5rem;
 }
 
+.m-5 {
+  margin: 1.25rem;
+}
+
 .ml-4 {
   margin-left: 1rem;
 }
@@ -686,6 +690,10 @@ video {
 
 .min-w-full {
   min-width: 100%;
+}
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .gap-4 {
